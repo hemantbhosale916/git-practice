@@ -1,1 +1,4 @@
 hi file 1 is creared using command copy con filename.txt
+
+
+doing changes from branch1 but didn't pull the changes from branch2
